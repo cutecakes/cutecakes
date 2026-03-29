@@ -13,6 +13,8 @@ $\color{#778A71}{\textsf{open to c+h . int freely with me }}$
 
 [![Visit](https://img.shields.io/badge/-card-palegreen?style=flat-plastic)](https://corgiez.carrd.co) [![Visit](https://img.shields.io/badge/-int-gray?style=flat-plastic)](https://rentry.co/cutecorgie)  [![Visit](https://img.shields.io/badge/-guns-palegreen?style=flat-plastic)](https://guns.lol/corgiez) [![Visit](https://img.shields.io/badge/-ponies-gray?style=flat-plastic)](https://rentry.co/corgiezponies)
 
+<sub>weekly takes @ my [rentry](https://rentry.co/corgitakes) here<sub>
+
 ![green](https://64.media.tumblr.com/90d58e198a3be721a497498b6044e03e/6d78bc7631b17625-82/s100x200/6e7a635fedc2c7474f17bb1aaabb72e1313f7fee.pnj) ![stamp](https://64.media.tumblr.com/e86b541176b0bd370abf3bd85a9aed88/6d78bc7631b17625-cd/s100x200/a8b252a51961d00bcc2d9ffa7502797bb14c7b85.pnj) <img src="https://64.media.tumblr.com/49e2402aff322a8896f2ba589903ceea/ec77f53b59019297-c2/s250x400/ac5165ee2aa5b0cfa2fc078e30e3830091748f03.jpg" alt="meoww" width="77">
 
 
