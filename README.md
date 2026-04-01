@@ -1,26 +1,25 @@
 <div align="center">
 
-![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=fireworks+ignited%20&color=F2784B&style=square)
+![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=angels%20&color=B4C3E0&style=square)
 
 <sub>Known for remaking my github profile A LOT .. but hey, I'm still corgiez </sub>
 
-<img src="https://github.com/user-attachments/assets/848811dc-626d-4e15-8df5-d247f4c5b1fe" width="500">
-
-![lovely](https://64.media.tumblr.com/9758ed3ab6f74d90b3174b16921eb6ee/81da97db240673ac-21/s540x810/3da8bbb7d465a9a604712447460bd73ebacfe30c.gif)
+<img src="https://github.com/user-attachments/assets/a00dd66a-2580-4535-be0e-6f1725a01ab6" width="500">
 
 
-<img src="https://64.media.tumblr.com/93a3f25a14292610f3b1bc9930d33364/dc396243e8aa5855-32/s1280x1920/bd5220819902ee2d1759df9f223b68b51716dac8.pnj" width="450">
-
-$\color{#FFE0A3}{\textsf{open }}\color{#FFC76A}{\textsf{to }}\color{#FFB347}{\textsf{c+h }}\color{#FFA347}{\textsf{. int }}\color{#FF8C3A}{\textsf{freely }}\color{#FF6F3C}{\textsf{with }}\color{#FF4E50}{\textsf{me}}$
+![lovely](https://64.media.tumblr.com/d4c692f937c81062bc823b2aa5825d76/39223ee0f863547b-b4/s1280x1920/e3cae630d42ae57b40434f1ff9425ed52854a62d.pnj)
 
 
-[![Visit](https://img.shields.io/badge/-card-F55442?style=flat-plastic)](https://corgiez.carrd.co) [![Visit](https://img.shields.io/badge/-int-F7C272?style=flat-plastic)](https://rentry.co/cutecorgie)  [![Visit](https://img.shields.io/badge/-guns-F55442?style=flat-plastic)](https://guns.lol/corgiez) [![Visit](https://img.shields.io/badge/-ponies-F7C272?style=flat-plastic)](https://rentry.co/corgiezponies)
+$\color{#F2F7FB}{\textsf{open }}\color{#DCEAF6}{\textsf{to }}\color{#C3DAEE}{\textsf{c+h }}\color{#A9C9E5}{\textsf{. int }}\color{#8FB8DB}{\textsf{freely }}\color{#75A7D1}{\textsf{with }}\color{#5B95C7}{\textsf{me}}$
+
+
+[![Visit](https://img.shields.io/badge/-card-F2F7FB?style=flat-plastic)](https://corgiez.carrd.co) [![Visit](https://img.shields.io/badge/-int-DCEAF6?style=flat-plastic)](https://rentry.co/cutecorgie) [![Visit](https://img.shields.io/badge/-guns-A9C9E5?style=flat-plastic)](https://guns.lol/corgiez) [![Visit](https://img.shields.io/badge/-ponies-75A7D1?style=flat-plastic)](https://rentry.co/corgiezponies)
 
 <sub>weekly takes @ my [rentry](https://rentry.co/corgitakes) here<sub>
 
-<img src="https://64.media.tumblr.com/e67569ef756c47af753d68bc6e8d1320/125ef7c09c4b6808-81/s250x400/2b1c79ae91f5f692edde08abeb36bdddb6663be4.pnj" width="77">
-<img src="https://64.media.tumblr.com/f44e3c4f65df3506eb1f5c20966e73a6/125ef7c09c4b6808-15/s100x200/022fbadf39dc3afb7fc7266e3736142df0e365bb.pnj" width="77">
-<img src="https://64.media.tumblr.com/df811ea57ea9e30e6036c9f08de6e023/cc7ebeb9df3fedaa-b3/s100x200/c72dd89e027be4b2a55c0d270a5ea4836739d92c.pnj" width="77">
+<img src="https://64.media.tumblr.com/66871165180b90fb3e079bd9c5f48df3/efa59677884e5c34-03/s100x200/c770238f3e8a4ad2c130823b56d815d430379699.pnj" width="77">
+<img src="https://64.media.tumblr.com/54874986067d8e8e8e650b9fcad4b27d/efa59677884e5c34-60/s100x200/aaa67d9ec326326b268d7a461c6b0804ea4f2f6d.gifv" width="77">
+<img src="https://64.media.tumblr.com/293b001115140c761d9bec6cfe95b95c/8b7c01b0a3108e42-16/s100x200/8b25a1f52437e662bc1b36ac148cfb97deec2ac2.pnj" width="77">
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fjxxeuyl2fhkgy5lrbidri26fa&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&profanity=true&bar_color_cover=false&bar_color=67c360)](https://github.com/kittinan/spotify-github-profile)
