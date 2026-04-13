@@ -4,6 +4,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=flames%20&color=D66142&style=plastic)
 
+<img src="https://flagpedia.net/data/flags/emoji/apple/160x160/ph.png" width="30">  <img src="https://flagpedia.net/data/flags/emoji/facebook/256x256/de.png" width="30"> 
+
+
 <sub>Known for remaking my github profile A LOT .. but hey, I'm still corgiez </sub>
 
 <img src="https://i.pinimg.com/originals/c3/9b/50/c39b50952af49f25a809a409caf7ea71.gif" width="500">
