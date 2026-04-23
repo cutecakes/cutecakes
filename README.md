@@ -39,6 +39,9 @@ $\color{#F6E7C9}{\textsf{The }}\color{#F1DDBA}{\textsf{longer }}\color{#EBCFA6}{
 
 ---
 
-![pacman graph](https://raw.githubusercontent.com/mualanis/mualanis/output/pacman-dark.svg)
+<sub> random stuff that i'll add below lololol <sub>
 
+<img src="https://media1.tenor.com/m/mTmDFGqMMtsAAAAd/keonho-cortis.gif" width="380">
+
+![pacman graph](https://raw.githubusercontent.com/mualanis/mualanis/output/pacman-dark.svg)
 
