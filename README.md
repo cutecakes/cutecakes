@@ -43,5 +43,5 @@ $\color{#FFD1DC}{\textsf{I }}\color{#FFB6C1}{\textsf{will }}\color{#FFA6B8}{\tex
 
 <img src="https://media1.tenor.com/m/mTmDFGqMMtsAAAAd/keonho-cortis.gif" width="380">
 
-![pacman graph](https://raw.githubusercontent.com/mualanis/mualanis/output/pacman-dark.svg)
+![pacman graph](https://raw.githubusercontent.com/cutecakes/cutecakes/output/pacman-dark.svg)
 
