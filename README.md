@@ -42,5 +42,5 @@ $\color{#D6F0FF}{\textsf{Stand }}\color{#BFE6FF}{\textsf{your }}\color{#A6DBFF}{
 
 <img src="https://media1.tenor.com/m/mTmDFGqMMtsAAAAd/keonho-cortis.gif" width="380">
 
-![pacman graph](https://raw.githubusercontent.com/cutecakes/cutecakes/output/pacman-dark.svg)
+![pacman graph](https://raw.githubusercontent.com/silvermaneguard/silvermaneguard/output/pacman-dark.svg)
 
