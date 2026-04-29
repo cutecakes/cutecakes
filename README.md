@@ -26,8 +26,7 @@
 
 $\color{#D6F0FF}{\textsf{Stand }}\color{#BFE6FF}{\textsf{your }}\color{#A6DBFF}{\textsf{ground, }}\color{#8CCFFF}{\textsf{hold }}\color{#73C3FF}{\textsf{the }}\color{#5AB7FF}{\textsf{line, }}\color{#42A9F5}{\textsf{for }}\color{#2E98E8}{\textsf{duty }}\color{#1F86DA}{\textsf{does }}\color{#0F74CC}{\textsf{not }}\color{#005FBD}{\textsf{waver.}}$
 
--> [![Visit](https://img.shields.io/badge/-int-6A7BB0?style=flat-plastic)](https://rentry.co/corgieint) 
-[![Visit](https://img.shields.io/badge/-guns-ACE4FA?style=flat-plastic)](https://guns.lol/corgiez) <-
+-> [![Visit](https://img.shields.io/badge/-rentry!!-6A7BB0?style=flat-plastic)](https://rentry.co/eunrives) <-
 
 
 <img src="https://64.media.tumblr.com/dc54caea417db83f65b8677a0eab2917/59840e6362bc73df-21/s1280x1920/686c535dbad6e4aaa9011669bce6bd43d4d3334a.png" width="77">
