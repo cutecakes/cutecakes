@@ -3,14 +3,9 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=flames%20&color=C74C4C&style=square)
 
+<img src="https://media1.tenor.com/m/vjwcYWHMeucAAAAd/diluc-diluc-genshin-impact.gif" width="400">
 
 <img src="https://flagpedia.net/data/flags/emoji/apple/160x160/ph.png" width="30">  <img src="https://flagpedia.net/data/flags/emoji/facebook/256x256/de.png" width="30"> 
-
-
-<sub>rmking github profile a lot . corgiez . kazehaya kin </sub>
-
-
-<img src="https://media1.tenor.com/m/vjwcYWHMeucAAAAd/diluc-diluc-genshin-impact.gif" width="500">
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31fjxxeuyl2fhkgy5lrbidri26fa&cover_image=true&theme=novatorem&show_offline=true&background_color=947C66&interchange=true&profanity=true&bar_color_cover=false&bar_color=4A6978)](https://github.com/kittinan/spotify-github-profile)
 
