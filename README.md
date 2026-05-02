@@ -21,3 +21,4 @@
 　𓈒 𓇢𓆸
 </h6>
 
+<sub> Just a heads-up: I’m not very talkative at first and don’t usually start conversations, but I’ll open up over time if there’s consistency and expectations are met. I’m positive and open to chats.  <sub>
