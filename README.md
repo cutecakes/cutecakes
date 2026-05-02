@@ -3,7 +3,8 @@
 
 ![Profile views](https://komarev.com/ghpvc/?username=corgiez&label=flames%20&color=C74C4C&style=square)
 
-<img width="467" height="204" alt="tumblr_c7d10925723a7029c535bfda0ebf8024_de7bd51c_500" src="https://github.com/user-attachments/assets/e4ac8412-9d8b-42c2-836e-6e6303fde15f" />
+
+<img src="https://i.pinimg.com/originals/49/b8/00/49b800fa734fde1423ca3ce6f826a37e.gif" width="700">
 
 
 <img src="https://flagpedia.net/data/flags/emoji/apple/160x160/ph.png" width="30">  <img src="https://flagpedia.net/data/flags/emoji/facebook/256x256/de.png" width="30"> 
