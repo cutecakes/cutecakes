@@ -13,6 +13,8 @@
 
 <img src="https://64.media.tumblr.com/bc19df572bdba6c0a03467db9f6af1af/d083df8da3513e0a-49/s2048x3072/54a69fec6c7ff89ff8031a69bb85da5a93690100.pnj" width="400">
 
+<img src="https://cdn3.emoji.gg/emojis/8388-rainbow-pin.gif" width="30"> <sub> READ RENTRY before ADDING / INTERACTING <sub> <img src="https://cdn3.emoji.gg/emojis/8388-rainbow-pin.gif" width="30">
+
 <h6>
 ( ՞_　_՞ )　‿　 ᩼　
   <a href="https://rentry.co/eunrives">
@@ -20,5 +22,3 @@
   </a>
 　𓈒 𓇢𓆸
 </h6>
-
-<sub> Just a heads-up: I’m not very talkative at first and don’t usually start conversations, but I’ll open up over time if there’s consistency and expectations are met. I’m positive and open to chats.  <sub>
